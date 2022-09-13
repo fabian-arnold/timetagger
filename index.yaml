@@ -12,4 +12,15 @@ entries:
     urls:
     - https://github.com/fabian-arnold/timetagger/releases/download/timetagger-1.0.1/timetagger-1.0.1.tgz
     version: 1.0.1
-generated: "2022-09-13T17:55:05.493975585Z"
+  - apiVersion: v2
+    appVersion: v22.9.1
+    created: "2022-09-13T17:59:01.251376625Z"
+    digest: ff3b6faaf42454786ae3d77ba108d2d4ea168b69154cd9d685c7568f03ec23d0
+    home: https://timetagger.app/
+    icon: https://timetagger.app/timetagger_wl.svg
+    name: timetagger
+    type: application
+    urls:
+    - https://github.com/fabian-arnold/timetagger/releases/download/timetagger-1.0.0/timetagger-1.0.0.tgz
+    version: 1.0.0
+generated: "2022-09-13T17:59:01.251385325Z"
